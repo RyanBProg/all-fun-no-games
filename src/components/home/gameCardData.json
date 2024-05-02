@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Quizzy",
+    "description": "Custom build your own trivia game to test your knowledge – let the trivia madness commence",
+    "badges": ["Trivia", "Custom", "Family"],
+    "link": "/games/quizzy"
+  },
+  {
+    "title": "Hunter",
+    "description": "Can you survive your way through the forest? Battle enemies to earn your reward.",
+    "badges": ["Role Play", "Action"],
+    "link": "/games/hunter"
+  },
+  {
+    "title": "Blackjack",
+    "description": "Hold your nerve to win it all - Do you have what it takes to succeed in this fast paced game?",
+    "badges": ["Cards", "Gambling"],
+    "link": "/games/blackjack"
+  },
+  {
+    "title": "ClickMaster",
+    "description": "Oh no you have a virus! Test your clicking skills and to close all the pop up window ",
+    "badges": ["Speed", "Skill"],
+    "link": "/games/clickmaster"
+  }
+]
